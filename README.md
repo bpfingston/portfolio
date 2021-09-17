@@ -1,3 +1,6 @@
-# Modify this portfolio
+# Portfolio Project
 
-Make it your own! 
+## Created by: Bryce Pfingston
+
+### url: [PfingstonPfortpfolio](https://pfingstonpfortpfolio.netlify.app)  
+
