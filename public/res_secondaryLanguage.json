@@ -1,52 +1,32 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Bryce Pfingston. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Français",
+      "description": "👋  Je m'appelle Bryce ! Je viens de passer les derniers mois au Codefellows Bootcamp, où l'on m'a enseigné les compétences et les aptitudes dont j'aurai besoin pour devenir un développeur de logiciels complet. J'ai récemment décidé de quitter mon dernier emploi, à l'Administration de la sécurité des transports, où je veillais quotidiennement à protéger les systèmes de transport du pays contre les menaces. J'ai hâte de suivre ma passion pour le travail sur ordinateur et les systèmes informatiques.   J'ai toujours été curieux de la technologie. J'ai démonté mon premier ordinateur et créé mon premier forum à l'âge de seize ans. La véritable raison pour laquelle je me suis lancé dans le développement de logiciels, c'est ma famille, qui était déjà à l'aise avec la technologie. Ma mère et mon beau-père sont des professionnels de la technologie, et maintenant mon frère utilise C# et Unity pour créer des jeux. Je veux créer des systèmes qui apportent du bonheur aux autres et utiliser mes contributions pour faire la différence. Je crois qu'ensemble, nous pouvons résoudre tous les problèmes. 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Projet final 301",
+        "startDate": "2021",
+        "description": "Le meilleur projet final que je ferai à la fin de la 301.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Final/comingsoon.jpg",
+          "images/portfolio/Final/waiting.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,61 +35,74 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Spondora",
+        "startDate": "2021",
+        "description": "Projet final de 201, où les utilisateurs répondent à un questionnaire et reçoivent une liste de lecture personnalisée à la fin.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Spondora/Title.jpg",
+          "images/portfolio/Spondora/spondora.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://theflatfour.github.io/Spondora/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-css3-plain-wordmark plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-trello-plain",
+            "name": "Trello"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bête à Cornes",
+        "startDate": "2021",
+        "description": "Cliquez sur les bêtes réelles et mythiques qui ont des cornes, en favorisant tout ce que vous voyez.",
+        "images": [
+          "images/portfolio/Hornedbeast/modal.png",
+          "images/portfolio/Hornedbeast/form.png"
+        ],
+        "url": "https://hornedbeast-brycep.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain-wordmark plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows Academy",
+        "title": "Étudiant - Développeur JavaScript FullStack",
+        "years": "07.2021 - présent",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MongoDB",
+          "SQL",
+          "HTML-5",
+          "CSS-3"
         ]
       }
     ]
